@@ -1,0 +1,2 @@
+# nointel
+just AMD script
